@@ -1,0 +1,6 @@
+altair==4.1.0
+chardet==5.1.0
+numpy==1.24.1
+pandas==1.5.2
+plotly==5.11.0
+streamlit==1.21.0
