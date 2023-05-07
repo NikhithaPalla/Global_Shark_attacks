@@ -1,7 +1,6 @@
 Global_Shark_attacks
 
-Streamlit App: https://nikhithapalla-global-shark-attacks-app-jln8h9.streamlit.app/
-
+Streamlit App: https://nikhithapalla-global-shark-attacks-app-95r9zd.streamlit.app/
 The Global Shark Attack Dataset is a compilation of reported shark attacks from all over the world, dating back to the 1700s. The dataset includes information such as the date and location of the attack, the type of activity the victim was engaged in, the species of shark involved (if known), and the severity of the injuries sustained by the victim.
 
 The dataset is maintained by the Shark Research Institute, and it is regularly updated as new incidents are reported. It is used by researchers, government agencies, and other organizations to study shark behavior and improve public safety.
